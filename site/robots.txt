@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mogify-business.sites.tab.bot/sitemap.xml
